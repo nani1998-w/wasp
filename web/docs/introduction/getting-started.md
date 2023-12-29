@@ -1,4 +1,4 @@
----
+https://usemage.ai/result/24b17289-d6b4-4a5f-b120-a32d211fe692https://usemage.ai/result/24b17289-d6b4-4a5f-b120-a32d211fe692---
 title: Quick Start
 slug: /quick-start
 ---
